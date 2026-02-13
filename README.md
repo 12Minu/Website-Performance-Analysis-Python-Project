@@ -93,4 +93,5 @@ Future Work:
 4. Integrate real-time analytics pipeline
 
 Author & Contact:
-  Minakshi Sakharkar
+  Minakshi Sakharkar,
+  https://github.com/12Minu/Website-Performance-Analysis-Python-Project/tree/main
