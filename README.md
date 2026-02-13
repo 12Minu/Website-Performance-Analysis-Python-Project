@@ -1,13 +1,13 @@
 Project Title: Website Performance Analysis Using Python
 
-Brief One-Line Summary
+Brief One-Line Summary:
   A data analysis project that examines website traffic, user engagement, and channel performance using Python-based exploratory data analysis and visualization techniques. 
 
-Overview
+Overview:
   This project focuses on analyzing real-world website data to understand user behavior, engagement trends, and traffic sources.
   It includes data cleaning, preprocessing, exploratory data analysis (EDA), and visualization to generate meaningful insights that can help improve website performance and decision-making. 
 
-Problem Statement
+Problem Statement:
   Organizations often struggle to understand:
       How website sessions and users change over time
       Which marketing channels drive the most traffic
@@ -15,18 +15,18 @@ Problem Statement
       How engagement varies by time of day and traffic source
            This project aims to answer these questions through structured data analysis and visualization. 
   
-Dataset
+Dataset:
  The dataset contains website analytics metrics such as:
-    Channel group
-    Date and hour of visit
-    Users and sessions
-    Engaged sessions
-    Average engagement time per session
-    Engagement rate and events
+   1) Channel group
+   2) Date and hour of visit
+   3) Users and sessions
+   4) Engaged sessions
+   5) Average engagement time per session
+   6) Engagement rate and events...
         After cleaning, the dataset includes 3182 records with validated numeric and datetime fields for analysis. 
 
 
-Tools and Technologies
+Tools and Technologies:
      Python
      Pandas
      NumPy
@@ -36,7 +36,7 @@ Tools and Technologies
          These tools were used for preprocessing, statistical analysis, and visualization. 
 
 
-Methods
+Methods:
    Data loading and validation
    Data cleaning and type conversion
    Feature extraction (hour from datetime)
@@ -46,7 +46,7 @@ Methods
         All preprocessing and visualization steps were performed using Python data science libraries. 
 
 
-Key Insights
+Key Insights:
   Website sessions and users show time-based trends.
   Certain marketing channels contribute significantly higher user traffic.
   Engagement time and engagement rate vary across channels.
@@ -56,7 +56,7 @@ Key Insights
         These insights help optimize marketing strategy and improve website performance. 
 
 
-Visuals Output
+Visuals Output:
    The project generates multiple visual outputs:
    Sessions vs. users over time line chart
    Total users by channel bar chart
@@ -68,7 +68,7 @@ Visuals Output
         These visualizations support data-driven decision-making. 
 
 
-How to Run This Project
+How to Run This Project?
      Install Python and required libraries:
      pip install pandas numpy matplotlib seaborn
      Open Jupyter Notebook.
@@ -77,7 +77,7 @@ How to Run This Project
         This will reproduce all insights and charts from the project. 
 
 
-Results & Conclusion
+Results & Conclusion:
    The analysis successfully identifies:
    High-performing traffic channels
    User engagement behavior patterns
@@ -86,11 +86,11 @@ Results & Conclusion
    These findings can guide marketing optimization and improve website user experience. 
 
 
-Future Work
+Future Work:
 Build an interactive dashboard (Power BI or Tableau)
 Apply machine learning for traffic prediction
 Perform deeper cohort and retention analysis
 Integrate real-time analytics pipeline
 
-Author & Contact
+Author & Contact:
   Minakshi Sakharkar
