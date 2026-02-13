@@ -94,4 +94,4 @@ Future Work:
 
 Author & Contact:
   Minakshi Sakharkar,
-  https://github.com/12Minu/Website-Performance-Analysis-Python-Project/tree/main
+  GitHub link: https://github.com/12Minu/Website-Performance-Analysis-Python-Project/
